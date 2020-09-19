@@ -1,2 +1,2 @@
-# PROJECT-20-VERSION-1
-BUG FIXES
+# p5.play-boilerplate
+Boiler plate for p5.play
